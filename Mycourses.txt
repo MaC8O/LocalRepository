@@ -1,0 +1,6 @@
+1. Human Computer Intereaction
+2. Business Communication
+3. Object Oriented Programming
+4. Frontend-web Development
+5. Managament Information System
+
